@@ -1,0 +1,20 @@
+1. Users
+
+2.Courses;
+
+3.Assignment
+
+4. Feedbacks
+
+
+USER / TRAINER 
+
+1.First Name
+2.Last Name
+3.Qualification
+4.CNIC
+5.Email
+6.Profile Picture
+7.Address
+8.Gender
+9.Role (Trainer/Student)
